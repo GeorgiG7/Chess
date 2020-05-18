@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9164b619-a900-4911-a19a-aa773608751e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1anazxFtNTWi7fGoqdRnqYTlox3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Chess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.chessBoard.Main" />
+      <module name="Chess" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Chess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9164b619-a900-4911-a19a-aa773608751e" name="Default Changelist" comment="" />
+      <created>1587374077925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587374077925</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="317" y="99" key="#com.intellij.ide.util.MemberChooser" timestamp="1587581820551">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state x="317" y="99" key="#com.intellij.ide.util.MemberChooser/0.0.1024.768@0.0.1024.768" timestamp="1587581820551" />
+    <state x="308" y="268" width="407" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587482835439">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state x="308" y="268" width="407" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1024.768@0.0.1024.768" timestamp="1587482835439" />
+    <state x="242" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587554977273">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state x="242" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1024.768@0.0.1024.768" timestamp="1587554977273" />
+    <state x="292" y="124" key="FileChooserDialogImpl" timestamp="1588529632456">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state x="292" y="124" key="FileChooserDialogImpl/0.0.1024.768@0.0.1024.768" timestamp="1588529632456" />
+    <state width="980" height="512" key="GridCell.Tab.0.bottom" timestamp="1587581542938">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="980" height="512" key="GridCell.Tab.0.bottom/0.0.1024.768@0.0.1024.768" timestamp="1587581542938" />
+    <state width="980" height="512" key="GridCell.Tab.0.center" timestamp="1587581542938">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="980" height="512" key="GridCell.Tab.0.center/0.0.1024.768@0.0.1024.768" timestamp="1587581542938" />
+    <state width="980" height="512" key="GridCell.Tab.0.left" timestamp="1587581542938">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="980" height="512" key="GridCell.Tab.0.left/0.0.1024.768@0.0.1024.768" timestamp="1587581542938" />
+    <state width="980" height="512" key="GridCell.Tab.0.right" timestamp="1587581542938">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="980" height="512" key="GridCell.Tab.0.right/0.0.1024.768@0.0.1024.768" timestamp="1587581542938" />
+    <state width="980" height="233" key="GridCell.Tab.1.bottom" timestamp="1587507544770">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="980" height="233" key="GridCell.Tab.1.bottom/0.0.1024.768@0.0.1024.768" timestamp="1587507544770" />
+    <state width="980" height="233" key="GridCell.Tab.1.center" timestamp="1587507544770">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="980" height="233" key="GridCell.Tab.1.center/0.0.1024.768@0.0.1024.768" timestamp="1587507544770" />
+    <state width="980" height="233" key="GridCell.Tab.1.left" timestamp="1587507544770">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="980" height="233" key="GridCell.Tab.1.left/0.0.1024.768@0.0.1024.768" timestamp="1587507544770" />
+    <state width="980" height="233" key="GridCell.Tab.1.right" timestamp="1587507544770">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="980" height="233" key="GridCell.Tab.1.right/0.0.1024.768@0.0.1024.768" timestamp="1587507544770" />
+    <state x="13" y="15" key="SettingsEditor" timestamp="1587377389534">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state x="13" y="15" key="SettingsEditor/0.0.1024.768@0.0.1024.768" timestamp="1587377389534" />
+    <state x="207" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1589807379163">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state x="207" y="206" key="com.intellij.ide.util.TipDialog/0.0.1024.768@0.0.1024.768" timestamp="1589807379163" />
+    <state x="0" y="3" key="new project wizard" timestamp="1588529635085">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state x="0" y="3" key="new project wizard/0.0.1024.768@0.0.1024.768" timestamp="1588529635085" />
+  </component>
+</project>
